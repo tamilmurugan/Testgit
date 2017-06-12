@@ -2,3 +2,10 @@ this is my first test file in git
 this is my first test file in git this is my first test file in git this is my first test file in git
 this is my first test file in git
 this is my first test file in git
+
+
+These are changes Uday is addeding to the common file.
+
+After making the change I will commit my changes, push the changes to git hub
+and create a pull request.
+
